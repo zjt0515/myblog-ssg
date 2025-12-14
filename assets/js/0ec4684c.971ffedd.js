@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkmyblog_ssg=globalThis.webpackChunkmyblog_ssg||[]).push([[6914],{5410:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/myblog-ssg/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
